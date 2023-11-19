@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Posts List</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Posts List</h1>
+  </header>
+  <main>
+    <ul id="postsList">
+      <li>
+        <h2>Post Title 1</h2>
+        <p>Post content goes here.</p>
+      </li>
+      <li>
+        <h2>Post Title 2</h2>
+        <p>Post content goes here.</p>
+      </li>
+      <li>
+        <h2>Post Title 3</h2>
+        <p>Post content goes here.</p>
+      </li>
+    </ul>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
